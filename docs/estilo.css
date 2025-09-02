@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(166, 168, 168);
+}
+
+.central{
+    text-align: center;
+}
+li{
+   display:  inline;
+
+}
+
+ .item-menu{
+    display: inline;
+    margin: 0.6rem;
+    border-color: aquamarine;
+    padding: 0.7rem;
+    padding-right: 1rem;
+    border-right-style: solid;
+    border-color: blue;
+    
+ }
+
+ .item-menu a:hover{
+    text-decoration: none;
+    color: azure;
+
+ }
+ 
+ .menu{
+    background-color: rgb(199, 202, 214);
+    padding: 0.7rem;
+}
+td{
+    padding: 0.4rem;
+}
+
+
